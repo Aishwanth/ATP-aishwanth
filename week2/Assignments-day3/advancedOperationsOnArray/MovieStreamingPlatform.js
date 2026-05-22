@@ -1,6 +1,5 @@
 // ASSIGNMENT 4:
-// ------------
-// Movie Streaming Platform
+//  Movie Streaming Platform
 
 // You are working on a movie recommendation system.
 

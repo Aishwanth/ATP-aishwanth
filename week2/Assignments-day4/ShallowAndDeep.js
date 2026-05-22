@@ -1,6 +1,6 @@
 // Hands-On 1: Shallow Copy (Controlled Mutation Use Case)
 // -------------------------------------------------------
-// 🧪 Given Data:
+// Given Data:
 //               const user = {
 //                 id: 101,
 //                 name: "Ravi",
@@ -10,7 +10,7 @@
 //                 }
 //               };
 
-// 🎯 Task
+// Task
 //     1. Create a shallow copy of user
 //     2. Change:
 //           i. name in the copied object
@@ -41,7 +41,7 @@ console.log(copyOfUser);
 // Hands-On 2: Deep Copy (Isolation & Safety Use Case)
 // ---------------------------------------------------
 
-// 🧪 Given Data:
+// Given Data:
 //                 const order = {
 //                   orderId: "ORD1001",
 //                   customer: {
@@ -56,7 +56,7 @@ console.log(copyOfUser);
 //                   ]
 //                 };
 
-// 🎯 Task:
+// Task:
 //       1. Create a deep copy of order
 //       2. Modify in copied object:
 //             i. customer.address.city
